@@ -1,0 +1,11 @@
+[workspace]
+members = [
+#    "src/engine",
+#    "src/kernel",
+#    "src/protocol",
+#    "src/sailvm",
+#    "src/server",
+#    "src/storage/btree",
+#    "src/storage/vfs",
+#    "src/utility",
+]
